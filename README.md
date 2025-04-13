@@ -1,7 +1,7 @@
 ## Barrett's Oesophagus
 
 ### Background 
-This is an exploratory repository looking at the genomic orgins of Barretts, a precancerous condition that can lead to the onset of Oesophagal Cancer. 
+This is an exploratory repository that examines the genomic origins of Barrett's, a precancerous condition that can lead to the onset of Oesophageal Cancer. 
 
 ### Organisation 
 Folder structure: 
